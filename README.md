@@ -40,8 +40,8 @@
 ### 📂 我的主打项目  
 
 <!-- 项目卡片 -->  
-<a href="https://github.com/Jianglongchen/项目名">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=你的GitHub用户名&repo=项目名&theme=radical" />  
+<a href="https://github.com/jianglongchen/Inverse-characterization-of-polyurethane-foams">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianglongchen&repo=Inverse-characterization-of-polyurethane-foams&theme=radical" />  
 </a>  
 
 
