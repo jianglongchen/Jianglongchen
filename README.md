@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JianglongChen</h1>  
 <h3 align="center">🚀 A passionate Graduate student of Xi 'an Polytechnic University from Xian</h3>  
 
-
+---
 <img   align="right" src="https://github-readme-stats.vercel.app/api?username=jianglongChen&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default&custom_title=活跃"/>
 <p align="center">  
   
