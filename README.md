@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm JianglongChen</h1>  
 <h3 align="center">🚀 A passionate Graduate student of Xi 'an Polytechnic University from Xian</h3>  
-
-###
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=jianglongChen&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default&custom_title=活跃"/>
----
 <p align="center">  
   🚀 **保持好奇，深入技术**  
   📫 **邮箱**: q19817525671@163.com    
 </p>  
+###
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=jianglongChen&locale=cn&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default&custom_title=活跃"/>
+---
   <a href="https://github.com/你的GitHub用户名?tab=repositories">  
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/你的GitHub用户名?color=green&logo=github">  
   </a>  
