@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [JianglongChen]</h1>  
-<h3 align="center">🚀 A passionate [Graduate student of Xi 'an Polytechnic University] from [Xian]</h3>  
+<h1 align="center">Hi 👋, I'm JianglongChen</h1>  
+<h3 align="center">🚀 A passionate Graduate student of Xi 'an Polytechnic University from Xian</h3>  
 
 <p align="center">  
   <a href="https://github.com/你的GitHub用户名">  
