@@ -19,6 +19,8 @@
 - 📖 专注技术写作与分享  
 - 🎨 AI 绘画与设计
 
+
+
 ### 🛠️ 关于我  
 
 - 🌱 我目前正在学习 **Deeply ploughed in the frontier field of artificial intelligence, focusing on the theory and practice of deep neural networks.**  
