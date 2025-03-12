@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm JianglongChen</h1>  
 <h3 align="center">🚀 A passionate Graduate student of Xi 'an Polytechnic University from Xian</h3>  
 
+### 🐍 动态 Contribution 记录  
 <p align="center">  
-  <a href="https://github.com/你的GitHub用户名">  
-    <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&label=Profile%20views&color=0e75b6&style=flat" alt="你的GitHub用户名" />  
-  </a>  
+  <img src="https://github.com/你的GitHub用户名/你的GitHub用户名/blob/output/github-contribution-grid-snake.svg" alt="贡献记录"/>  
+</p>  
+
+<p align="center">  
+  🚀 **保持好奇，深入技术**  
+  📫 **邮箱**: q19817525671@163.com  
+  🔗 [博客链接](https://example.com) | [Twitter](https://twitter.com/你的Twitter)  
+</p>  
   <a href="https://github.com/你的GitHub用户名?tab=repositories">  
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/你的GitHub用户名?color=green&logo=github">  
   </a>  
@@ -14,17 +20,17 @@
 </p>  
 
 ---  
+### 🎯 兴趣爱好  
+- 🚵 热爱骑行，郊外探索  
+- 📖 专注技术写作与分享  
+- 🎨 AI 绘画与设计
 
 ### 🛠️ 关于我  
 
 - 🌱 我目前正在学习 **Deeply ploughed in the frontier field of artificial intelligence, focusing on the theory and practice of deep neural networks.**  
 - 💬 如果有问题，可以跟我讨论 **U-net、Diffusion、Dnn**  
 - 📫 联系我：q19817525671@163.com  
-- ⚡ 有趣的事情：**I am good at finite element software analysis, mainly involving fluid, heat transfer and mechanics**  
-
----  
-
-### 🔧 技术栈  
+- ⚡ 有趣的事情：**I am good at finite element software analysis, mainly involving fluid, heat transfer and mechanics**   
 
 #### 🚀 我熟练的技术:  
 
@@ -34,18 +40,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
 ![PaddlePaddle](https://img.shields.io/badge/-PaddlePaddle-2582A1?style=flat-square&logo=paddlepaddle&logoColor=white)  
-
----  
-
-### 📂 我的主打项目  
-
-<!-- 项目卡片 -->  
-<a href="https://github.com/jianglongchen/Inverse-characterization-of-polyurethane-foams">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jianglongchen&repo=Inverse-characterization-of-polyurethane-foams&theme=radical" />  
-</a>  
-
-
----  
 
 ### ❤️ 感谢  
 
