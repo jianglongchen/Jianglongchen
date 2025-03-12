@@ -31,38 +31,19 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
 #### 🛠️ 正在学习:  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)  
-
----  
-
-### 🔥 我的 GitHub 数据  
-
-<p align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="你的GitHub用户名 的 GitHub Stats"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&hide_border=true&langs_count=10&theme=radical" alt="Top Languages"/>  
-</p>  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+![PaddlePaddle](https://img.shields.io/badge/-PaddlePaddle-2582A1?style=flat-square&logo=paddlepaddle&logoColor=white)  
 
 ---  
 
 ### 📂 我的主打项目  
 
 <!-- 项目卡片 -->  
-<a href="https://github.com/你的GitHub用户名/项目名">  
+<a href="https://github.com/Jianglongchen/项目名">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=你的GitHub用户名&repo=项目名&theme=radical" />  
 </a>  
 
-<a href="https://github.com/你的GitHub用户名/项目名">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=你的GitHub用户名&repo=项目名&theme=radical" />  
-</a>  
-
----  
-
-### 📫 找到我  
-
-- LinkedIn: [你的LinkedIn链接](#)  
-- YouTube: [你的YouTube链接](#)  
-- Twitter: [你的Twitter链接](#)  
 
 ---  
 
